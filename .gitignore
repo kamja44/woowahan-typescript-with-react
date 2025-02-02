@@ -1,0 +1,6 @@
+# IDE 설정 파일
+.idea/
+.vscode/
+*.iml
+
+.DS_Store
