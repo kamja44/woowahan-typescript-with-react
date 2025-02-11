@@ -1,0 +1,52 @@
+[
+  {
+    "name": "1주차",
+    "color": "F9F7F7",
+    "description": "1장. 들어가며 / 2장. 타입"
+  },
+  {
+    "name": "2주차",
+    "color": "EFF1F5",
+    "description": "3장. 고급 타입"
+  },
+  {
+    "name": "3주차",
+    "color": "E4EBF2",
+    "description": "4장. 타입 확장하기·좁히기"
+  },
+  {
+    "name": "4주차",
+    "color": "DBE2EF",
+    "description": "5장. 타입 활용하기"
+  },
+  {
+    "name": "5주차",
+    "color": "B7C5DB",
+    "description": "6장. 타입스크립트 컴파일"
+  },
+  {
+    "name": "6주차",
+    "color": "93A8C7",
+    "description": "7장. 비동기 호출"
+  },
+  {
+    "name": "7주차",
+    "color": "6F8BB3",
+    "description": "8장. JSX에서 TSX로"
+  },
+  {
+    "name": "8주차",
+    "color": "3F72AF",
+    "description": "9장. 훅 / 10장. 상태 관리 / 11장. CSS-in-JS"
+  },
+  {
+    "name": "9주차",
+    "color": "294F7E",
+    "description": "12장. 타입스크립트 프로젝트 관리"
+  },
+  {
+    "name": "10주차 스터디 완료 🎉",
+    "color": "112D4E",
+    "description": "13장. 타입스크립트와 객체 지향"
+  }
+]
